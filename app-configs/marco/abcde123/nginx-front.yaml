@@ -1,0 +1,3 @@
+url: https://kubernetes.default.svc
+chartRevision: "*"
+suffix: ""
